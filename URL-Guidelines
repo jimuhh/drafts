@@ -27,3 +27,5 @@ Good URLs also help people who build and edit the website to:
 ![The structure of a URL, illustrating domain, subdirectory and page name]({{site.baseurl}}/images/url-segments.jpg)
 
 ## What makes a good URL?
+
+A good URL should be "[short, descriptive and efficient](https://www.deepcrawl.com/blog/best-practice/guide-to-url-design/)"
