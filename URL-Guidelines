@@ -19,4 +19,11 @@ URLs are a highly visible attribute of your content that impacts user experience
   - An indication of the priority of the content based on the depth (i.e. number of sub-directories in the URL path) of the content
   - Information about how the content is related to other content within your site.
 
-![The structure of a URL]({{site.baseurl}}/images/url-segments.jpg)
+Good URLs also help people who build and edit the website to:
+  - Locate the correct files to work on
+  - Understand where they fit in the website hierarchy, and 
+  - Easily share that information with other team members and stakeholders
+
+![The structure of a URL, illustrating domain, subdirectory and page name]({{site.baseurl}}/images/url-segments.jpg)
+
+## What makes a good URL?
