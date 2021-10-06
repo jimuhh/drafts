@@ -1,0 +1,44 @@
+## VFS acceptance criteria
+- [ ] Let Platform know when the **Must** feedback has been incorporated 
+- [ ] Leave any comments for feedback you decide _not_ to take
+- [ ] VFS team closes the ticket
+
+## Thoughts/questions
+-  How readily will users recognize this as a messaging UI?
+
+
+## Feedback
+- **Must** = the feedback must be applied
+- **Should** = the feedback is best practice
+- **Consider** = suggestions/enhancements
+
+**Must:**
+- Complete [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) to brief Collaboration Cycle team members on project history and challenges.
+
+**Should:**
+- Create a more detailed, swim lane-style user journey map to further develop the user path indicated in [this one](https://accenturefederal.invisionapp.com/freehand/document/OgZA9Ftye). 
+- Use a template [like this one from MIRO](https://miro.com/templates/customer-journey-map/) to differentiate and capture: 
+  - Different phases of the process 
+  - The people, automated system processes, user perceptions, actions, and subjective reactions that interact during each phase.
+- Assume a mobile context of use with all the extra challenges that implies
+- Document every time in the task flow that the user must enter, leave or return to the product 
+  - **Example:**
+    - If the user must break the flow by going to a different website or offline to obtain a requested document, what steps are required and how do they pick up where they left off later?
+    - If the user gets a notification from the VA through text or email, what are the steps required to sign in and validate their identity on the VA site if their login isn't saved on the device they're using?
+    
+**Consider:**
+- Anticipating friction and miscommunications **every time a user needs to**
+  -  understand a new piece of information
+  - correctly interpret a request
+  - perform an unfamiliar task
+...they can and often will get things wrong. How can the system prevent that?
+
+## Platform directions
+- Update "Issue Title"
+- Link to collab cycle touchpoint meeting epic
+- Add to the Feedback pipeline on the Platform Product Support board
+- Add your feedback
+- Add assignees based on collab cycle touchpoint
+  - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
+  - **Midpoint Review**: VFS PM, yourself (optional)
+  - **Staging Review QA Only**: VFS PM, yourself (optional)
