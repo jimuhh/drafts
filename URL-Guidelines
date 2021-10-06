@@ -16,16 +16,27 @@ URLs are a highly visible attribute of your content that impacts user experience
 - A good URL helps users AND search engines by providing: 
   - A high-level description of what the content is about
   - The location of the content within your site 
-  - An indication of the priority of the content based on the depth (i.e. number of sub-directories in the URL path) of the content
-  - Information about how the content is related to other content within your site.
+  - How the site's creators rate the relative importance of the content, as indicated by its depth in the directory structure.
+    - (Higher placement = Greater importance)
+  - Information on how the content is related to other content within your site.
 
 Good URLs also help people who build and edit the website to:
   - Locate the correct files to work on
   - Understand where they fit in the website hierarchy, and 
-  - Easily share that information with other team members and stakeholders
+  - Reduce misundersandings about file names and locations 
+      - *"the 'Five savory soups' article is in 'articles/recipes/five-savory-soups.htm'"* **vs.** "the 'Five savory soups' article is in 'static/misc/cooksrecp19.htm'"
 
 ![The structure of a URL, illustrating domain, subdirectory and page name]({{site.baseurl}}/images/url-segments.jpg)
 
 ## What makes a good URL?
 
 A good URL should be "[short, descriptive and efficient](https://www.deepcrawl.com/blog/best-practice/guide-to-url-design/)"
+
+Short
+ : Fewer words and shorter directory paths. Avoid creating deeper directory 
+Descriptive
+ : File name reads like page title with hyphens instead of spaces between words. 
+ : When a long page title needs to be shortened, you can omit words but try and keep it recognizably similar to original. 
+Efficient
+ : 
+
