@@ -9,21 +9,36 @@ draft: true
 
 # URL Standards
 
-URLs are a highly visible attribute of your content that impacts user experience, accessibility, and search rankings.  The URL of a page specifies the page's name and location within VA.gov. 
+The URL of your page specifies its name and location within VA.gov. URLs are a highly visible attribute of your content that impacts user experience, accessibility, and search rankings, so it's important to get it right. 
 
 ## About URLs
-- URLs consists of a domain, sub-directories (optional), and a page name.  
-- A good URL helps users AND search engines by providing: 
-  - A high-level description of what the content is about
-  - The location of the content within your site 
-  - How the site's creators rate the relative importance of the content, as indicated by its depth in the directory structure.
-    - (Higher placement = Greater importance)
-  - Information on how the content is related to other content within your site.
+**Static URLs** are the addresses where digital files live. They're called static because they point to static content: content that stays the same each time users access it. Most of VA.gov's content uses static URLs, so we'll be focusing on them.  
 
-Good URLs also help people who build and edit the website to:
+### Static URLs:
+
+- 
+- **Consist of:**
+  - 
+
+
+sub-directories (optional), and a descriptive page name.  
+
+- Most of the content on VA.gov uses static URLs, so we'll be focusing on them.
+- As a content creator or site builder, you exercise more control over the names of static URLs than dynamic ones.
+
+**Dynamic URLs** also have domains and sub-directories like static URLs, but unlike static URLs, the file names change 
+
+A good URL helps users AND search engines by providing: 
+- A high-level description of what the content is about
+- The location of the content within the site 
+- The relative importance of the content as seen by the site creators. (Closer to domain root = More important)
+- Information on how the content is related to other content within your site.
+
+**Good URLs also help people building and revising the website to:**
+
   - Locate the correct files to work on
   - Understand where they fit in the website hierarchy, and 
-  - Reduce misundersandings about file names and locations 
+  - Reduce misundersandings when communicating file names and locations 
       - *"the 'Five savory soups' article is in 'articles/recipes/five-savory-soups.htm'"* **vs.** "the 'Five savory soups' article is in 'static/misc/cooksrecp19.htm'"
 
 ![The structure of a URL, illustrating domain, subdirectory and page name]({{site.baseurl}}/images/url-segments.jpg)
@@ -32,11 +47,29 @@ Good URLs also help people who build and edit the website to:
 
 A good URL should be "[short, descriptive and efficient](https://www.deepcrawl.com/blog/best-practice/guide-to-url-design/)"
 
-Short
- : Fewer words and shorter directory paths. Avoid creating deeper directory 
-Descriptive
- : File name reads like page title with hyphens instead of spaces between words. 
- : When a long page title needs to be shortened, you can omit words but try and keep it recognizably similar to original. 
-Efficient
- : 
+### Short
+
+
+
+-  Use the fewest words and shortest paths you can while keeping the URL scannable
+  - Ask yourself, "if someone read this to me on the phone, and I couldn't write it down, would I remember it?"
+- Keep directory structures wide . 
+  - The farther a page is from the root file directory (everything before the first forward-slash), the lower its search engine ranking. 
+- But don't try and save space with mashed-up or abbreviated file names. 
+  - If the page title is **"2021 Concert Schedule"** name the file "**2021-performance-schedule**," not **cncrtsched21**, which is neither human nor machine-readable. 
+  - Eight-dot-three filenames and stuck-together word fragments are relics of old-school computing, so don't use them.
+
+### Descriptive
+
+- File names should read  like thumbnail page titles, but use hyphens between words instead of spaces. 
+- When condensing a long title into a short filename, keep the same keywords as title
+
+ 
+
+### Efficient
+ Any moderately web-savvy person should be able to look at the URL and without radditional information, know:
+  – Where they are
+  – What they can do there
+  – Where they can go from here
+
 
