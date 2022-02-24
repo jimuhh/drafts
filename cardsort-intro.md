@@ -11,5 +11,5 @@ If you have any questions, feel free to ping Jim or Kevin in this channel.
 
 **Thanks!**
 
-Jim, Kevin and Tyrell
+Jim, Kevin and Tyreil
 
